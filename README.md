@@ -1,1 +1,1 @@
-# PavlovVR-CustomPushLoadout
+# PavlovVR-CustomPushLoadoutProxy
